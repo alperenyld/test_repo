@@ -1,4 +1,4 @@
 # example file
 
-print("Example program started.")
+print("Example program started."
 print("Everything works fine")
