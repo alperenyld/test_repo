@@ -5,3 +5,7 @@ print("Everything works fine")
 
 # example.py - baseline
 print("Baseline: example.py working")
+
+#example.py - broken commit
+print("Broken commit starts")
+print("Oops")
